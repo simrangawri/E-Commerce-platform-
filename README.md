@@ -47,5 +47,5 @@ To get started with this project, follow these steps:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/your-username/E-Commerce-Platform.git
+   git clone https://github.com/simrangawri/E-Commerce-Platform.git
 
